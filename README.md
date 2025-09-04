@@ -1,6 +1,6 @@
 
 
-# 1.option API
+# 1.option API 2
 ## option API(template)
 面向option api配置，使用配置+template方式，跟vue2类似
 ```js
